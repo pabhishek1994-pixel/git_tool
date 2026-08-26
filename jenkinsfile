@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage {
             steps {
-                sample("abhishek")
+                build("abhishek")
             }
         }
     }
